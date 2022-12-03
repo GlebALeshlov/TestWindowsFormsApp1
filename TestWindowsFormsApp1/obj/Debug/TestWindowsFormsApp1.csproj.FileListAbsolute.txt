@@ -8,3 +8,4 @@ C:\Users\dimad\source\repos\TestWindowsFormsApp1\TestWindowsFormsApp1\obj\Debug\
 C:\Users\dimad\source\repos\TestWindowsFormsApp1\TestWindowsFormsApp1\obj\Debug\TestWindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\dimad\source\repos\TestWindowsFormsApp1\TestWindowsFormsApp1\obj\Debug\TestWindowsFormsApp1.exe
 C:\Users\dimad\source\repos\TestWindowsFormsApp1\TestWindowsFormsApp1\obj\Debug\TestWindowsFormsApp1.pdb
+C:\Users\dimad\source\repos\TestWindowsFormsApp1\TestWindowsFormsApp1\obj\Debug\TestWindowsFormsApp1.Form1.resources
